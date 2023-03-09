@@ -2,7 +2,19 @@
 
 A Demo simple blog website, to show MPA (MultiPage App) with React
 
-## URL Demo
+## Url
+
+[Show me](https://vite-react-mpa-demo.netlify.app/)
+
+## images
+
+home:
+
+![homepage](./home.png)
+
+detail:
+
+![detail](./detail.png)
 
 ## How run locally
 
