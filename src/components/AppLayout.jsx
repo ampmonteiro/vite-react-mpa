@@ -11,7 +11,15 @@ export default function AppLayout({ children }) {
       <main>{children}</main>
 
       <footer>
-        <p>&copy;2023 AMPM</p>
+        <p>
+          &copy;2023{' '}
+          <a
+            target={'_blank'}
+            href="https://github.com/ampmonteiro/vite-react-mpa"
+          >
+            AMPM
+          </a>
+        </p>
         <p>Powered by: React || Developed with: Vite</p>
       </footer>
     </>
