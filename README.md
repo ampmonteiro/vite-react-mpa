@@ -1,6 +1,6 @@
 # Vite + React => MPA
 
-A Demo simple blog website, to show MPA (MultiPage App) with React
+A Demo simple blog website, to show MPA (MultiPage App) with React and vite
 
 ## Url
 
